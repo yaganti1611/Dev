@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Hello') {
             steps {
-                echo 'Wlcome to Minfy'
+                echo 'Wlcome to Minfy Tech'
             }
         }
     }
