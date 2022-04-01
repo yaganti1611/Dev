@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     stages {
-        stage('Hello') {
+        stage('Hai') {
             steps {
                 echo 'Wlcome to Minfy Tech'
             }
